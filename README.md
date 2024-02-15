@@ -2,6 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+# make env.local or any other environment set up
+
+# Need Oxylabse user and password
+
+# example
+
+OXYLABS_USERNAME=username
+OXYLABS_PASSWORD=password
+
 First, run the development server:
 
 ```bash
